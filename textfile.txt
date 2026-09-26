@@ -1,2 +1,3 @@
 line1
 Line 2 from remote to pull everywhere test. (Introducing a conflict from local)
+as well as a thrid line to see what happens
