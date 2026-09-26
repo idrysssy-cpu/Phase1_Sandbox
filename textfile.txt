@@ -1,2 +1,2 @@
 line1
-Line 2 from remote to pull everywhere test.
+Line 2 from remote to pull everywhere test. (introducing a conflict from remote)
